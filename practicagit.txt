@@ -2,3 +2,4 @@ Este es un documento de practica para aprender los comandos necesarios de git
 
 Es importante practica para aprender mas. 
 
+Este es un cambio a mi archivo de practica
